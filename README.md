@@ -16,7 +16,11 @@ Na segunda prática vamos trabalhar com um dataset relacionado a uma empresa fin
 ### 🔨~Prática 3
 Na terceira prática vamos trabalhar com um dataset relacionado a dads sobre o tempo. Dando continuidade ao aprendizado de limpeza e tratamento de dados com Python e Pandas.
 
+## Site
 
+Site EPC: escolapilotodecomputacao.com.br
+
+Site CAPCOM: capcom.escolapilotodecomputacao.com.br
 
 ## Feedback
 
@@ -24,5 +28,6 @@ Se você tiver algum feedback, por favor nos deixe saber por meio de:
 
 #### Email EPC
 escolapilotodecomputacao@gmail.com
+
 
 
