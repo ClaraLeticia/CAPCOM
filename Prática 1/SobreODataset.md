@@ -38,25 +38,11 @@ Qual é a leitura média da pressão arterial entre os estudantes?
 
 Quantos estudantes classificam a qualidade do sono como ruim?
 
-### Fatores Ambientais:
-Quantos estudantes vivem em condições com níveis de ruído elevados? 
-
-Qual a porcentagem de estudantes que se sentem inseguros em suas condições de vida?
- 
-Quantos estudantes relataram não ter suas necessidades básicas atendidas? 
-
 ### Fatores Acadêmicos:
 Quantos estudantes classificam seu desempenho acadêmico como abaixo da média?
 
 Qual é a carga média de estudo relatada pelos estudantes?
 
 Quantos estudantes têm preocupações sobre suas carreiras futuras?
-
-### Fatores Sociais:
-Quantos estudantes sentem que têm um forte apoio social?
-
-Qual a porcentagem de estudantes que sofreram bullying?
-
-Quantos estudantes participam de atividades extracurriculares?
 
 
